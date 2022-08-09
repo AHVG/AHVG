@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/AHVG">
-    <img height="300px" src="https://github-readme-stats.vercel.app/api?username=AHVG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AHVG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="center"/>
   </a>
   
 ##
