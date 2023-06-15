@@ -4,8 +4,6 @@
   <p align="center"><b>Estudando</b> na Universidade Federal de Santa Catarina (UFSC) Ciência da Computação e <b>trabalhando</b> no Laboratório de Segurança em Computação (LabSEC).</p>
 </div>
 
-#
-
 <div align="center">
   <a href="https://github.com/AHVG">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHVG&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -22,16 +20,15 @@
     <img align="center" alt="AHVG-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     <img align="center" alt="AHVG-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
     <img align="center" alt="AHVG-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    <img align="center" alt="AHVG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="AHVG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="AHVG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="AHVG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="AHVG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="AHVG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   </div>
 </div>
 
-
-
+#
 
 ![Snake animation](https://github.com/AHVG/AHVG/blob/output/github-contribution-grid-snake.svg)
 
