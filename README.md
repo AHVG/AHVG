@@ -1,39 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=👋+Eai+!?+Bem+vindo+ao+meu+Github+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1373ED&size=35&center=true&vCenter=true&width=1000&lines=👋+Eai+?!+Tudo+bem?;Bem+vindo+ao+meu+Github+!;)](https://git.io/typing-svg)
 
-### Estou ...
+<div>
+  <p align="center"><b>Estudando</b> na Universidade Federal de Santa Catarina (UFSC) Ciência da Computação e <b>trabalhando</b> no Laboratório de Segurança em Computação (LabSEC).</p>
+</div>
 
-- estudando na Universidade Federal de Santa Catarina (<a href="https://ufsc.br/">UFSC</a>) Ciencia da computacao
-- trabalhando no Laboratório de Segurança em Computação (<a href="https://labsec.ufsc.br/">LabSEC</a>)
-- aprendendo mais sobre desenvolvimento web
+#
 
+<div align="center">
+  <a href="https://github.com/AHVG">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHVG&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHVG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 #
 
 <div>
   <div align="center"><h3>Ferramentas e tecnologias</h3></div>
   <div align="center">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="AHVG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="AHVG-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+    <img align="center" alt="AHVG-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+    <img align="center" alt="AHVG-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" alt="AHVG-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="AHVG-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="AHVG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="AHVG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="AHVG-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   </div>
 </div>
 
-#
-
-<div>
-  <div align="center"><h3>Aprendendo</h3></div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/flask?style=for-the-badge&logo=c&logoColor=white"/>
-  </div>
-</div>
-
-<div align="center">
-  <a href="https://github.com/AHVG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHVG&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHVG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 
