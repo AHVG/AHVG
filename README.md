@@ -32,7 +32,6 @@
   <div align="center"><h3>Contatos</h3></div>
   <div align="center">  
       <a href="mailto:guhvguerner@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.linkedin.com/in/augustoguerner/"><img src="https://icons8.com.br/icon/13930/linkedin"></a>
-  </div>
+      <a href="https://www.linkedin.com/in/augustoguerner/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>  </div>
 </div>
 
