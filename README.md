@@ -35,3 +35,6 @@
       <a href="https://www.linkedin.com/in/augustoguerner/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" target="_blank"></a>  </div>
 </div>
 
+<div>
+  <p align="right"><img src='https://komarev.com/ghpvc/?username=AHVG' /></p>
+</div>
